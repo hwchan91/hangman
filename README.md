@@ -25,3 +25,4 @@ ruby hangman_with_ai.rb
 ## Acknowledgements
 
 * This project is part of [The Odin Project Curriculum](https://www.theodinproject.com/courses/ruby-programming/lessons/file-i-o-and-serialization)
+
